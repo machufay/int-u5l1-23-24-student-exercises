@@ -4,10 +4,10 @@
 
 // 1. Create a variable named mood.
 //  - Assign it a string value of "happy".
-
+let mood = "happy";
 
 // 2. Create a variable named recommendedSong. Do not assign a value.
-
+let recommendedSong;
 
 // 3. Implement the recommendation logic.
 // - If the mood is equal to "happy", recommend "Here Comes the Sun by The Beatles".
